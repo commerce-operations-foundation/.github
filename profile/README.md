@@ -6,3 +6,5 @@ Guided by four core principles — Open, Neutral, Interoperable, and Extensible 
 
 The Commerce Operations Foundation represents a growing global community of retailers, brands, platforms, 3PLs, logistics providers, and technology vendors who share a vision for a more connected, intelligent, and resilient commerce ecosystem. Membership is open to organizations and practitioners committed to advancing open standards that future-proof the industry.
 
+Learn more at: https://commerceopsfoundation.org/
+
